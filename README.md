@@ -13,7 +13,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre contratações por inexig
 ## 🚀 Resultados
 O e-book apresenta um conteúdo prático e descomplicado de como funciona as contratações por inexigibilidade, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/alehossoe/lab-natty-or-not/blob/c714d18688c556884cbec322bffc44eff8fff44b/Guia%20Pr%C3%A1tico_%20Contratos%20por%20Inexigibilidade%20na%20Lei%2013.303_2016.pdf)
 
 ## 💭 Reflexão (Opcional)
 Criar um ebook com a ajuda da IA foi uma experiência prazerosa e reveladora, um processo fascinante da combinação entre os avanços tecnológicos e insights sobre a natureza da criatividade humana.  
